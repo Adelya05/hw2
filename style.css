@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red {
+    background-color: red;
+    border: none;
+    width: 80px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.green {
+    background-color:green;
+    border: none;
+    width: 80px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.blue {
+    background-color: blue;
+    border: none;
+    width: 80px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
